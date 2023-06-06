@@ -1,0 +1,45 @@
+body {
+    background-color: #D1F5D3;
+}
+
+h1{
+    background-color: #9DC6A7;
+    color: #715320;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.image{
+    text-align: center;
+}
+
+h2{
+    background-color: #9DC6A7;
+    color: #715320;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text{
+    text-align: center;
+    color: #231903;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h3{
+    background-color: #9DC6A7;
+    color: #715320;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.ingredients{
+    display: grid;
+    place-items: center;
+    color: #231903;
+    font-weight: bold;
+    font-size: 16px;
+}
+

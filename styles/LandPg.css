@@ -1,0 +1,22 @@
+.title {
+    background-color: #643843;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+div button{
+    background-color: #C88EA7;
+    font-weight: 800;
+    font-size: 18px;
+    
+}
+
+.container{
+    text-align: center;
+}
+
+body{
+    background-color: #E7CBCB;
+}
